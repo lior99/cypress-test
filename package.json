@@ -1,0 +1,24 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "### run cypress with npm cypress open",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lior99/cypress-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lior99/cypress-test/issues"
+  },
+  "homepage": "https://github.com/lior99/cypress-test#readme",
+  "devDependencies": {
+    "cypress": "^10.0.2"
+  }
+}
